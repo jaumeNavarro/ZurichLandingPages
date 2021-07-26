@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/more/health-heart</title>
+    <g id="pictogram/more/health-heart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="Mask" fill="#5495CF"></path>
+            <g id="heart-copy-2" transform="translate(18.500000, 29.000000)">
+                <path d="M56.5163005,8.34860136 L52.5000469,12.3793694 L48.4834183,8.34860136 C37.3920334,-2.78286712 19.4096423,-2.78286712 8.31825743,8.34860136 C-2.77275248,19.4800698 -2.77275248,37.5274482 8.31825743,48.6585403 L52.5000469,93 L52.5322969,92.9672571 L96.6814613,48.6585403 C107.772846,37.5274482 107.772846,19.4800698 96.6814613,8.34860136 C85.5900764,-2.78286712 67.6076854,-2.78286712 56.5163005,8.34860136" id="Fill-1" fill="#23366F"></path>
+                <polyline id="Path-2" stroke="#1FB1E6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="20.8359375 39.5 38.8571 39.5 43.2199927 23.6847867 51.4486 62 60 28.890625 64.5501 39.5 82 39.5"></polyline>
+                <circle id="Oval" fill="#1FB1E6" cx="82.5" cy="39" r="6"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

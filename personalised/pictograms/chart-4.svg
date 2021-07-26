@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/finance-and-data/chart-4</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+    </defs>
+    <g id="pictogram/finance-and-data/chart-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#5495CF" xlink:href="#path-1"></use>
+            <g id="Group" mask="url(#mask-2)">
+                <g transform="translate(12.500000, 96.000000)">
+                    <path id="Line-2" d="M12.5136319,3.58834841 C12.926161,3.3820839 13.4277922,3.54929432 13.6340567,3.96182335 C13.6920369,4.07778366 13.7222222,4.20565073 13.7222222,4.33529829 L13.7222222,4.33529829 L13.722,9.5 L118.5,9.5 C119.052285,9.5 119.5,9.94771525 119.5,10.5 C119.5,11.0128358 119.11396,11.4355072 118.616621,11.4932723 L118.5,11.5 L13.722,11.5 L13.7222222,16.6648846 C13.7222222,17.0906275 13.4036381,17.4419611 12.991862,17.4934933 L12.8871069,17.5 C12.7574593,17.5 12.6295922,17.4698147 12.5136319,17.4118345 L12.5136319,17.4118345 L0.184045575,11.2470414 C-0.228483454,11.0407768 -0.395693881,10.5391456 -0.189429366,10.1266165 C-0.108620514,9.96499882 0.0224278693,9.83395044 0.184045575,9.75314159 L0.184045575,9.75314159 Z" stroke="none" fill="#2167AE" fill-rule="nonzero"></path>
+                    <line x1="9.5" y1="10.5" x2="108" y2="11" id="Line-3" stroke="#2167AE" stroke-width="4" fill="#91BFE3" fill-rule="evenodd" stroke-linecap="square"></line>
+                    <circle id="Oval" stroke="none" fill="#DAD2BD" fill-rule="evenodd" cx="44" cy="11" r="11"></circle>
+                    <circle id="Oval-Copy-2" stroke="none" fill="#2167AE" fill-rule="evenodd" cx="76" cy="11" r="11"></circle>
+                    <circle id="Oval-Copy-3" stroke="none" fill="#2167AE" fill-rule="evenodd" cx="108" cy="11" r="11"></circle>
+                </g>
+            </g>
+            <g id="Balken" mask="url(#mask-2)" fill="#23366F" fill-rule="nonzero">
+                <g transform="translate(30.000000, 29.000000)" id="Rectangle">
+                    <rect x="0" y="25" width="13" height="35" rx="6"></rect>
+                    <rect x="34" y="14" width="13" height="46" rx="6"></rect>
+                    <rect x="51" y="0" width="13" height="60" rx="6"></rect>
+                    <rect x="17" y="6" width="13" height="54" rx="6"></rect>
+                    <rect x="68" y="14" width="13" height="46" rx="6"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

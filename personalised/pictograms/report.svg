@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/finance-and-data/report</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="140" height="140" rx="70"></rect>
+        <path d="M28.3534857,55.9854406 C12.7203197,55.9854406 0,43.3047111 0,27.716084 C0,12.4303217 12.7203197,0 28.3534857,0 C43.9906107,0 56.7129098,12.4303217 56.7129098,27.716084 C56.7129098,43.3047111 43.9906107,55.9854406 28.3534857,55.9854406 Z" id="path-3"></path>
+    </defs>
+    <g id="pictogram/finance-and-data/report" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#91BFE3" xlink:href="#path-1"></use>
+            <g id="diagram" mask="url(#mask-2)" fill="#2167AE">
+                <g transform="translate(79.000000, 42.000000)">
+                    <rect id="Rectangle" x="0" y="21" width="10" height="21" rx="5"></rect>
+                    <rect id="Rectangle-Copy-6" x="13" y="5" width="10" height="37" rx="5"></rect>
+                    <rect id="Rectangle-Copy-7" x="26" y="16" width="10" height="26" rx="5"></rect>
+                    <rect id="Rectangle-Copy-8" x="39" y="0" width="10" height="42" rx="5"></rect>
+                </g>
+            </g>
+            <g id="Man" mask="url(#mask-2)">
+                <g transform="translate(6.524343, 24.122993)">
+                    <g id="head" stroke-width="1" fill="none" transform="translate(9.932281, 0.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" fill="#DAD2BD" xlink:href="#path-3"></use>
+                        <path d="M56.366199,23.8324869 C51.9222031,16.4934602 38.3813773,10.6024439 38.3813773,10.6024439 C36.9343568,15.9768086 34.8667605,16.804243 29.2855371,19.0777082 C22.4057564,21.8806918 15.021201,17.8375463 5.3057748,27.5539623 C4.41202684,28.4467205 0.137278893,23.5226939 0.550996107,23.4187697 L0.550996107,-4.94817664 L24.608949,-14.8495553 L46.0785315,-8.27929303 L63.8419573,16.2695779 L56.366199,23.8324869 Z" id="Stroke-35" fill="#23366F" mask="url(#mask-4)"></path>
+                    </g>
+                    <path d="M0,99.3069775 L0.195971311,80.5471783 C0.293956967,71.0821598 8.04769057,63.4867869 17.5176578,63.5847725 L36.518957,63.7827234 L56.8079262,63.9945307 C66.2749242,64.0925164 73.8712869,71.8492193 73.7733012,81.3152275 L73.585248,125.598908" id="Fill-24" fill="#23366F"></path>
+                    <g id="Micro" stroke-width="1" fill="none" transform="translate(24.475657, 52.154003)">
+                        <path d="M27.3523219,13.230043 C27.3523219,20.5373975 21.4286436,26.4600861 14.1222789,26.4600861 C6.81492439,26.4600861 0.891246107,20.5373975 0.891246107,13.230043 C0.891246107,5.92268852 6.81492439,0 14.1222789,0 C21.4286436,0 27.3523219,5.92268852 27.3523219,13.230043" id="Fill-27" fill="#1FB1E6"></path>
+                        <polyline id="Fill-29" fill="#23366F" points="11.5493141 46.6733391 10.0795293 24.9907961 18.8992281 24.9907961 17.4294432 46.6733391"></polyline>
+                        <polyline id="Stroke-30" fill="#DDE4E3" points="11.5493141 46.6733391 10.0795293 24.9907961 18.8992281 24.9907961 17.4294432 46.6733391"></polyline>
+                        <rect id="Rectangle" fill="#2167AE" x="0" y="21.7230037" width="29" height="8" rx="4"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

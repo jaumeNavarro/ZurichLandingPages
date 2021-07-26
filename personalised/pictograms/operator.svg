@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/products-and-services/operator</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+        <path d="M28.3534857,55.9854406 C12.7203197,55.9854406 0,43.3047111 0,27.716084 C0,12.4303217 12.7203197,0 28.3534857,0 C43.9906107,0 56.7129098,12.4303217 56.7129098,27.716084 C56.7129098,43.3047111 43.9906107,55.9854406 28.3534857,55.9854406 Z" id="path-3"></path>
+    </defs>
+    <g id="pictogram/products-and-services/operator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#91BFE3" xlink:href="#path-1"></use>
+            <g id="Man" mask="url(#mask-2)">
+                <g transform="translate(33.000000, 31.000000)">
+                    <g id="head" stroke-width="1" fill="none" transform="translate(8.000000, 0.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" fill="#DAD2BD" xlink:href="#path-3"></use>
+                        <path d="M55.1650403,24.2335791 C50.7210444,16.8945525 37.1802186,11.0035361 37.1802186,11.0035361 C35.7331981,16.3779008 33.6656018,17.2053352 28.0843784,19.4788004 C21.2045977,22.281784 13.8200423,18.2386385 4.1046161,27.9550545 C3.21086815,28.8478127 -1.0638798,23.9237861 -0.650162589,23.8198619 L-0.650162589,-4.54708443 L23.4077903,-14.4484631 L44.8773728,-7.87820082 L62.6407986,16.6706701 L55.1650403,24.2335791 Z" id="Stroke-35" fill="#23366F" mask="url(#mask-4)"></path>
+                    </g>
+                    <path d="M0,116.723142 L0.195971311,77.9633432 C0.293956967,68.4983248 8.04769057,60.9029518 17.5176578,61.0009375 L36.518957,61.1988883 L56.8079262,61.4106957 C66.2749242,61.5086813 73.8712869,69.2653842 73.7733012,78.7313924 L73.585248,126" id="Fill-24" fill="#23366F"></path>
+                </g>
+            </g>
+            <g id="Headset" mask="url(#mask-2)">
+                <g transform="translate(25.000000, 22.000000)">
+                    <path d="M81,37 C81,16.5654643 64.4345357,0 44,0 C23.5654643,0 7,16.5654643 7,37" id="Oval" stroke="#23366F" stroke-width="4" fill="none"></path>
+                    <path d="M81,57 C81,51.4771525 64.4345357,47 44,47" id="Oval-Copy-4" stroke="#23366F" stroke-width="4" fill="none" transform="translate(62.500000, 52.000000) scale(1, -1) translate(-62.500000, -52.000000) "></path>
+                    <rect id="Rectangle" stroke="none" fill="#23366F" fill-rule="evenodd" x="37" y="52" width="17" height="9" rx="2"></rect>
+                    <path d="M81,27 L84,27 C86.7614237,27 89,29.2385763 89,32 L89,45 C89,47.7614237 86.7614237,50 84,50 L81,50 C79.8954305,50 79,49.1045695 79,48 L79,29 C79,27.8954305 79.8954305,27 81,27 Z" id="Rectangle" stroke="none" fill="#2167AE" fill-rule="evenodd"></path>
+                    <path d="M2,27 L5,27 C7.76142375,27 10,29.2385763 10,32 L10,45 C10,47.7614237 7.76142375,50 5,50 L2,50 C0.8954305,50 1.3527075e-16,49.1045695 0,48 L0,29 C-1.3527075e-16,27.8954305 0.8954305,27 2,27 Z" id="Rectangle-Copy" stroke="none" fill="#2167AE" fill-rule="evenodd" transform="translate(5.000000, 38.500000) scale(-1, 1) translate(-5.000000, -38.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/finance-and-data/chart-2</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+    </defs>
+    <g id="pictogram/finance-and-data/chart-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#91BFE3" xlink:href="#path-1"></use>
+            <g id="Kurve-Copy" mask="url(#mask-2)">
+                <g transform="translate(10.000000, 67.000000)">
+                    <polyline id="Path" stroke="#DDE4E3" stroke-width="4" fill="none" stroke-linecap="round" points="0 41.5 34.5816951 14.2873932 56.0026856 6.02350427 77.2535181 31 116.5 18.9754274 151 10.5"></polyline>
+                    <circle id="Oval" stroke="none" fill="#DDE4E3" fill-rule="nonzero" cx="13" cy="31.5" r="6"></circle>
+                    <circle id="Oval" stroke="none" fill="#DDE4E3" fill-rule="nonzero" cx="34" cy="14" r="6"></circle>
+                    <circle id="Oval" stroke="none" fill="#DDE4E3" fill-rule="nonzero" cx="55" cy="6" r="6"></circle>
+                    <circle id="Oval" stroke="none" fill="#DDE4E3" fill-rule="nonzero" cx="78" cy="30" r="6"></circle>
+                    <circle id="Oval" stroke="none" fill="#DDE4E3" fill-rule="nonzero" cx="113" cy="20" r="6"></circle>
+                </g>
+            </g>
+            <g id="Kurve-2" mask="url(#mask-2)">
+                <g transform="translate(2.000000, -11.937500)">
+                    <polyline id="Path" stroke="#23366F" stroke-width="4" fill="none" stroke-linecap="round" points="13 136.916569 38.3174347 51.2234889 60.4686862 102.9375 85.4439789 86.9496743 117 57.9375 202.804688 0"></polyline>
+                    <circle id="Oval" stroke="none" fill="#23366F" fill-rule="nonzero" cx="6" cy="137.9375" r="6"></circle>
+                    <circle id="Oval" stroke="none" fill="#23366F" fill-rule="nonzero" cx="38" cy="50.9375" r="6"></circle>
+                    <circle id="Oval" stroke="none" fill="#23366F" fill-rule="nonzero" cx="60" cy="102.9375" r="6"></circle>
+                    <circle id="Oval" stroke="none" fill="#23366F" fill-rule="nonzero" cx="86" cy="86.9375" r="6"></circle>
+                    <circle id="Oval" stroke="none" fill="#23366F" fill-rule="nonzero" cx="117" cy="57.9375" r="6"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

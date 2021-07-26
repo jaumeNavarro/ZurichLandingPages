@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/industry-and-company-and-business/team</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+    </defs>
+    <g id="pictogram/industry-and-company-and-business/team" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#91BFE3" xlink:href="#path-1"></use>
+            <g id="values-copy" mask="url(#mask-2)" fill="#23366F">
+                <g transform="translate(40.000000, 15.000000)">
+                    <path d="M49,19.5 C49,30.2697391 40.2695511,39 29.5,39 C18.7304489,39 10,30.2697391 10,19.5 C10,8.73026086 18.7304489,0 29.5,0 C40.2695511,0 49,8.73026086 49,19.5" id="Fill-1"></path>
+                    <path d="M61,125 L0,125 L0,71.7437616 C0,55.3166976 13.4267778,42 29.9892944,42 L31.0107056,42 C47.5732222,42 61,55.3166976 61,71.7437616 L61,125 Z" id="Fill-3"></path>
+                </g>
+            </g>
+            <g id="values" mask="url(#mask-2)" fill="#DAD2BD">
+                <g transform="translate(2.000000, 45.000000)">
+                    <path d="M49,19.5 C49,30.2697391 40.2695511,39 29.5,39 C18.7304489,39 10,30.2697391 10,19.5 C10,8.73026086 18.7304489,0 29.5,0 C40.2695511,0 49,8.73026086 49,19.5" id="Fill-1"></path>
+                    <path d="M61,95 L0,95 L0,71.7437616 C0,55.3166976 13.4267778,42 29.9892944,42 L31.0107056,42 C47.5732222,42 61,55.3166976 61,71.7437616 L61,95 Z" id="Fill-3"></path>
+                </g>
+            </g>
+            <g id="values-copy" mask="url(#mask-2)" fill="#2167AE">
+                <g transform="translate(77.000000, 45.000000)">
+                    <path d="M49,19.5 C49,30.2697391 40.2695511,39 29.5,39 C18.7304489,39 10,30.2697391 10,19.5 C10,8.73026086 18.7304489,0 29.5,0 C40.2695511,0 49,8.73026086 49,19.5" id="Fill-1"></path>
+                    <path d="M61,95 L0,95 L0,71.7437616 C0,55.3166976 13.4267778,42 29.9892944,42 L31.0107056,42 C47.5732222,42 61,55.3166976 61,71.7437616 L61,95 Z" id="Fill-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

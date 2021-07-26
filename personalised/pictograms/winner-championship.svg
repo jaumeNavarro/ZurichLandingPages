@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/industry-and-company-and-business/winner-championship</title>
+    <g id="pictogram/industry-and-company-and-business/winner-championship" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="Mask" fill="#5495CF"></path>
+            <g id="pokal-groß" transform="translate(31.199800, 27.200000)">
+                <path d="M21.74,44.0728 C8.09,44.0728 0,14.6598 0,7.6638 L14.3002,11.3" id="Stroke-1" stroke="#23366F" stroke-width="4.4" stroke-linejoin="round"></path>
+                <path d="M56.4685,44.0728 C70.1195,44.0728 78.2085,15.1258 78.2085,7.6638 L66.3002,10.8" id="Stroke-3" stroke="#23366F" stroke-width="4.4" stroke-linejoin="round"></path>
+                <path d="M66.0974,0 C66.0974,19.722 63.6344,61.859 38.7944,61.859 C15.6404,61.859 12.1114,19.722 12.1114,0 L66.0974,0 Z" id="Stroke-7" stroke="#23366F" stroke-width="4.4" fill="#23366F"></path>
+                <line x1="38.7488" y1="57.8594" x2="38.7488" y2="81.6784" id="Stroke-9" stroke="#23366F" stroke-width="4.4"></line>
+                <path d="M53.6804,92.1685 C53.6804,88.1445 49.3254,79.5455 38.9374,79.5455 C29.8894,79.5455 24.5284,88.1445 24.5284,92.1685 L53.6804,92.1685 Z" id="Stroke-13" stroke="#23366F" stroke-width="4.4" fill="#23366F" stroke-linejoin="round"></path>
+                <polygon id="Stroke-17" stroke="#DAD2BD" stroke-width="3.4" fill="#DAD2BD" points="35.0282 20.739 38.8262 13 42.6592 20.722 51.1932 21.942 45.0332 27.974 46.5092 36.467 38.8702 32.473 31.2492 36.501 32.6862 28.001 26.5002 21.998"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

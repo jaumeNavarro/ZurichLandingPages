@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/earth-and-nature/rain</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+        <filter id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.568627 0 0 0 0 0.749020 0 0 0 0 0.890196 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="pictogram/earth-and-nature/rain" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#5495CF" xlink:href="#path-1"></use>
+            <g filter="url(#filter-3)" id="circle" stroke-linecap="round" stroke-linejoin="round">
+                <g mask="url(#mask-2)">
+                    <g transform="translate(71.376065, 70.000000) scale(-1, -1) translate(-71.376065, -70.000000) translate(18.752129, 17.381691)">
+                        <g id="2" transform="translate(52.876065, 79.068953) scale(-1, -1) translate(-52.876065, -79.068953) translate(0.752129, 52.901288)">
+                            <path d="M4.32924048,30.5124586 C12.6018992,12.5049788 30.7965125,0 51.9115721,0 C80.8164279,0 104.247871,23.4314429 104.247871,52.335329" id="Stroke-1" stroke="#23366F" stroke-width="7"></path>
+                            <polyline id="Stroke-3" stroke="#23366F" stroke-width="7" points="16 27.8310306 3.85704831 31.6183086 0 19.6183086"></polyline>
+                        </g>
+                        <g id="1">
+                            <path d="M5.32924048,30.5124586 C13.6018992,12.5049788 31.7965125,0 52.9115721,0 C81.8164279,0 105.247871,23.4314429 105.247871,52.335329" id="Stroke-1" stroke="#23366F" stroke-width="7"></path>
+                            <polyline id="Stroke-3" stroke="#23366F" stroke-width="7" points="16 29.8310306 3.85704831 33.6183086 0 21.6183086"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="regen-04" mask="url(#mask-2)" fill-rule="nonzero">
+                <g transform="translate(34.618644, 32.000000)">
+                    <path d="M72.7627119,36.990852 C72.7627119,28.1570419 65.6283501,20.9958239 56.8276693,20.9958239 L56.7854685,20.9958239 C57.8221645,10.9592801 50.8746174,1.85518619 40.9507748,0.245976987 C31.0269322,-1.36323221 21.5768647,5.08189246 19.4123926,14.9355608 C19.2604695,14.9355608 19.1113599,14.9355608 18.9622502,14.9355608 C8.49078718,14.9355607 0.00155362952,23.4554868 0,33.9663684 C0,43.9745569 7.91688011,52.9350484 17.4739667,52.9350484 L17.4739667,53 L56.8923773,52.9237525 L56.8923773,52.9858801 C65.6684213,52.9516579 72.7643275,45.7999988 72.7627119,36.990852 Z" id="Path" fill="#23366F"></path>
+                    <polygon id="Path-Copy" fill="#DAD2BD" points="24.3813559 58.8742101 37.2974328 58.8257654 36.7912938 75 48.3813559 49.2947832 34.7754048 49.2947832 36.0199519 32"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

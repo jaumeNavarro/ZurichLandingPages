@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/products-and-services/local-requirements</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+    </defs>
+    <g id="pictogram/products-and-services/local-requirements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#5495CF" xlink:href="#path-1"></use>
+            <path d="M70,6 C54.5493379,19.5269979 37.8826712,26.2904968 20,26.2904968 L20.0960287,66.1038281 C20.0960287,86.6311451 36.7306858,109.263202 70,134 C103.449267,109.263202 120.173901,86.6311451 120.173901,66.1038281 L120.076094,26.3708304 C99.8685809,26.3708304 83.1765495,19.5805536 70,6 Z" id="Stroke-23-Copy" fill="#DAD2BD" mask="url(#mask-2)"></path>
+            <g id="Doc" mask="url(#mask-2)">
+                <g transform="translate(46.500000, 30.000000)">
+                    <path d="M0,54 L47,54 L0,54 Z" id="Path-Copy-11" stroke="#23366F" stroke-width="4" stroke-linejoin="round"></path>
+                    <path d="M0,64 L47,64 L0,64 Z" id="Path-Copy-12" stroke="#23366F" stroke-width="4" stroke-linejoin="round"></path>
+                    <g id="local" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(4.543478, 0.000000)">
+                        <g id="Group-8">
+                            <path d="M32.6576271,5.70213019 C25.1868283,-1.90071006 13.0740412,-1.90071006 5.60324251,5.70213019 C-1.8677475,13.3047758 -1.8677475,25.6313329 5.60324251,33.2339785 L19.1305304,47 L32.6576271,33.2339785 C40.1286171,25.6313329 40.1286171,13.3047758 32.6576271,5.70213019" id="Fill-4" fill="#23366F"></path>
+                            <path d="M25.8288783,25.3439906 C22.0934696,29.0828673 16.0369652,29.0828673 12.3015565,25.3439906 C8.56614783,21.6051138 8.56614783,15.5429865 12.3015565,11.8043012 C16.0369652,8.06523294 22.0934696,8.06523294 25.8288783,11.8043012 C29.564287,15.5429865 29.564287,21.6051138 25.8288783,25.3439906" id="Fill-6" fill="#1FB1E6"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

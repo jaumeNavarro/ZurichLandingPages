@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/industry-and-company-and-business/industries</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+    </defs>
+    <g id="pictogram/industry-and-company-and-business/industries" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 0.000105)">
+            <g id="Fill-1-Copy-2">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#91BFE3" xlink:href="#path-1"></use>
+            </g>
+            <path d="M114.949219,85.999895 L108.132244,32.494354 C107.877744,30.4968182 106.178002,28.999895 104.164319,28.999895 L101.040768,28.999895 C99.0377532,28.999895 97.3435518,30.4814311 97.0764831,32.4665615 L92.4801386,66.6313406 L92.4801386,66.6313406 L61.1157908,53.9766727 C60.0914551,53.5633809 58.9260277,54.0587298 58.5127359,55.0830655 C58.4167809,55.3208882 58.3674598,55.5749458 58.3674598,55.8313966 L58.3674598,65.8879615 L58.3674598,65.8879615 L27.7626367,53.2639598 C26.7415242,52.8427672 25.572305,53.3290983 25.1511124,54.3502107 C25.0513407,54.5920909 25,54.8511979 25,55.1128474 L25,96.999895 C25,99.209034 26.790861,100.999895 29,100.999895 L109.621877,100.999895 L109.621877,100.999895 L112.24381,100.999895 C114.452949,100.999895 116.24381,99.209034 116.24381,96.999895 C116.24381,96.840198 116.234246,96.6806443 116.21517,96.5220907" id="Stroke-1" fill="#23366F"></path>
+            <rect id="Rectangle" fill="#DAD2BD" x="69" y="69.999895" width="8" height="9" rx="2"></rect>
+            <rect id="Rectangle-Copy-13" fill="#DAD2BD" x="69" y="82.999895" width="8" height="9" rx="2"></rect>
+            <rect id="Rectangle-Copy-11" fill="#DAD2BD" x="37" y="82.999895" width="8" height="9" rx="2"></rect>
+            <rect id="Rectangle-Copy-12" fill="#DAD2BD" x="37" y="69.999895" width="8" height="9" rx="2"></rect>
+        </g>
+    </g>
+</svg>

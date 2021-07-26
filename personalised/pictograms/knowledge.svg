@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/knowledge/knowledge</title>
+    <defs>
+        <polygon id="path-1" points="0 0 140 0 140 139.999895 0 139.999895"></polygon>
+    </defs>
+    <g id="pictogram/knowledge/knowledge" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 0.000105)" id="Knowledge">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="Fill-1" fill="#91BFE3" mask="url(#mask-2)"></path>
+            </g>
+            <g id="Group-12" transform="translate(34.999784, 21.424533)">
+                <path d="M70.0002164,34.9999823 C70.0002164,15.5039323 54.0598164,-0.269167746 34.5007664,0.00348225379 C15.5363664,0.268082254 0.108016394,15.8318823 0,34.7980323 C-0.0645336063,46.3697323 5.48716639,56.6474823 14.0877164,63.0654323 C18.4718164,66.3365323 21.0002164,71.5301823 21.0002164,76.9999823 L49.0002164,76.9999823 C49.0002164,71.4647323 51.6427164,66.2878823 56.0614664,62.9534323 C64.5272664,56.5659323 70.0002164,46.4229323 70.0002164,34.9999823" id="Fill-4" fill="#23366F"></path>
+                <line x1="24.5002164" y1="83.9999823" x2="45.5002164" y2="83.9999823" id="Stroke-6" stroke="#2167AE" stroke-width="5" stroke-linecap="round"></line>
+                <line x1="28.0002164" y1="94.4999823" x2="42.0002164" y2="94.4999823" id="Stroke-8" stroke="#2167AE" stroke-width="5" stroke-linecap="round"></line>
+                <path d="M10.5002164,34.9999823 C10.5002164,21.4689823 21.4692164,10.4999823 35.0002164,10.4999823" id="Stroke-10" stroke="#DAD2BD" stroke-width="5" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

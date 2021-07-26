@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/transportation-and-travel/travel-protection</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+    </defs>
+    <g id="pictogram/transportation-and-travel/travel-protection" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#91BFE3" xlink:href="#path-1"></use>
+            <path d="M70.0128555,8 C54.553623,21.5269979 37.8826712,28.2904968 20,28.2904968 L20.0960287,68.1038281 C20.0960287,88.6311451 36.7349709,111.263202 70.0128555,136 C103.453553,111.263202 120.173901,88.6311451 120.173901,68.1038281 L120.076094,28.3708304 C99.8685809,28.3708304 83.1808347,21.5805536 70.0128555,8 Z" id="Stroke-23-Copy" fill="#23366F" mask="url(#mask-2)"></path>
+            <g id="Group-8" mask="url(#mask-2)">
+                <g transform="translate(27.461957, 28.000105)" id="plane">
+                    <g transform="translate(10.038043, 8.000000)">
+                        <path d="M32.3815789,2.84217094e-14 C36.4581789,2.84217094e-14 39.7631579,3.3304987 39.7631579,7.43913043 L39.763,19.702 L64.8534039,29.4389234 L64.8534039,36.7681159 L39.763,36.768 L39.763,48.742 L44.7,53.8695652 L44.7,59 L20,59 L20,53.8695652 L24.94,48.7391304 L25,48.739 L25,36.768 L5.68434189e-14,36.7681159 L5.68434189e-14,29.4389234 L25,19.737 L25,7.43913043 C25,3.3304987 28.3049789,2.84217094e-14 32.3815789,2.84217094e-14 Z" id="Combined-Shape" fill="#DAD2BD"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

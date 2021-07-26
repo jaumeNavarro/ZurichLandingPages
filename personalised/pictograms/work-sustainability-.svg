@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/industry-and-company-and-business/work-sustainability-</title>
+    <defs>
+        <path d="M40.5,0 C18.1683666,0 0,18.1682114 0,40.500346 C0,62.8317886 18.1683666,81 40.5,81 C62.8323254,81 81,62.8317886 81,40.500346 C81,18.1682114 62.8323254,0 40.5,0 L40.5,0 Z" id="path-1"></path>
+        <filter id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.137255 0 0 0 0 0.211765 0 0 0 0 0.435294 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="pictogram/industry-and-company-and-business/work-sustainability-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="Mask" fill="#5495CF"></path>
+            <g id="man-copy" transform="translate(20.216273, 23.116578)">
+                <g id="man" transform="translate(9.283727, 13.883422)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M55.89,27.135 C55.89,35.8584887 48.8183364,42.93 40.095,42.93 C31.3716636,42.93 24.3,35.8584887 24.3,27.135 C24.3,18.4115113 31.3716636,11.34 40.095,11.34 C48.8183364,11.34 55.89,18.4115113 55.89,27.135" id="Fill-1" fill="#DAD2BD" mask="url(#mask-2)"></path>
+                    <path d="M65.61,88.29 L16.2,88.29 L16.2,69.4524469 C16.2,56.146525 27.07569,45.36 40.4913285,45.36 L41.3186715,45.36 C54.73431,45.36 65.61,56.146525 65.61,69.4524469 L65.61,88.29 Z" id="Fill-3" fill="#DAD2BD" mask="url(#mask-2)"></path>
+                </g>
+                <g filter="url(#filter-3)" id="arrows" stroke-linecap="round">
+                    <g transform="translate(-0.000000, 0.000000)">
+                        <path d="M93.6444128,49.7025189 C94.8391875,72.2452341 78.9271395,92.1312373 56.5619089,96.0461946 C34.1966783,99.9611519 12.4080202,86.6745286 5.78415867,65.0821565" id="Path" stroke="#FFFFFF" stroke-width="6"></path>
+                        <line x1="93.3416299" y1="47.9594933" x2="88.0579034" y2="52.2029503" id="Path" stroke="#FFFFFF" stroke-width="6"></line>
+                        <line x1="93.4148302" y1="47.9594933" x2="99.1311036" y2="51.9879661" id="Path" stroke="#FFFFFF" stroke-width="6"></line>
+                        <path d="M5.48669087,47.0112621 C4.30123445,24.4724829 20.2137707,4.59492619 42.5747961,0.681694977 C64.9358214,-3.23153623 86.7208817,10.0488539 93.3502722,31.6349319" id="Path" stroke="#FFFFFF" stroke-width="6"></path>
+                        <line x1="5.78947368" y1="48.7509802" x2="11.0765275" y2="44.5075232" id="Path" stroke="#FFFFFF" stroke-width="6"></line>
+                        <line x1="5.71960073" y1="48.7509802" x2="-1.77635684e-15" y2="44.7225074" id="Path" stroke="#FFFFFF" stroke-width="6"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

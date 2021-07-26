@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/products-and-services/lighthouse</title>
+    <g id="pictogram/products-and-services/lighthouse" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="Mask" fill="#2167AE"></path>
+            <path d="M138.530633,55.6637647 L87.5,38 L123.942207,25.3849399 C131.065449,33.9876612 136.170206,44.3225514 138.530633,55.6637647 Z M15.9901538,25.4667532 L51.5,38 L1.47082252,55.6567755 C3.82440969,44.3542334 8.90369496,34.0513844 15.9901538,25.4667532 Z" id="Combined-Shape" fill="#DDE4E3"></path>
+            <path d="M70,140 C53.6503306,140 38.6098448,134.394749 26.6953912,125.001096 L113.304317,125.001326 C101.38991,134.394841 86.3495359,140 70,140 Z" id="Combined-Shape" fill="#23366F"></path>
+            <g id="icon-2-colours/invert/lighthouse-copy-2" transform="translate(49.000000, 13.620065)">
+                <polygon id="Stroke-1" fill="#23366F" points="34.593595 39.3799353 6.40516511 39.3799353 0 111.379935 41 111.379935"></polygon>
+                <polygon id="Stroke-3" fill="#1FB1E6" points="4 37.3799353 37 37.3799353 37 14.3799353 4 14.3799353"></polygon>
+                <g id="Group-22" transform="translate(0.973306, 0.000000)">
+                    <path d="M33.8142471,12.1709905 C32.6065271,5.25740178 26.6209185,0 19.4029426,0 C12.1849666,0 6.20059049,5.25740178 4.99410279,12.1709905 L33.8142471,12.1709905 Z" id="Stroke-4" fill="#23366F"></path>
+                    <path d="M13.5463629,111.395541 L13.5463629,96.4080407 C13.5463629,96.4080407 13.6745291,91.4803888 19.1918381,91.4803888 C24.5797484,91.4803888 24.8373132,96.4080407 24.8373132,96.4080407 L24.8373132,111.395541" id="Stroke-12" fill="#5495CF"></path>
+                    <line x1="2" y1="59.5198239" x2="38" y2="46.809581" id="Stroke-14" stroke="#2167AE" stroke-width="2.4"></line>
+                    <line x1="1" y1="76.0406605" x2="40" y2="62.5048033" id="Stroke-16" stroke="#2167AE" stroke-width="2.4"></line>
+                    <line x1="0" y1="92.561497" x2="41" y2="78.0996132" id="Stroke-18" stroke="#2167AE" stroke-width="2.4"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

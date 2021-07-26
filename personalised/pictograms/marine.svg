@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/transportation-and-travel/marine</title>
+    <g id="pictogram/transportation-and-travel/marine" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="Mask" fill="#5495CF"></path>
+            <g id="boat" transform="translate(12.999727, 35.146330)">
+                <polygon id="Path" fill="#DAD2BD" points="28.2571229 30.8386249 24.0324729 25.0128328 29.7008179 25.0128328 29.7008179 30.8386249"></polygon>
+                <polygon id="Path" fill="#DAD2BD" points="14.1303809 16.035502 29.7008179 16.035502 29.7008179 22.8267944 22.4468646 22.8267944 21.084133 20.9486232 14.1303809 20.9486232"></polygon>
+                <polygon id="Path" fill="#DAD2BD" points="32.1215315 25.0128328 47.6928783 25.0128328 47.6928783 30.8386249 31.8840996 30.8386249 31.8840996 25.0128328"></polygon>
+                <polygon id="Path" fill="#DAD2BD" points="32.1215315 22.8267944 47.6928783 22.8267944 47.6928783 16.035502 32.1215315 16.035502"></polygon>
+                <polygon id="Path" fill="#DAD2BD" points="49.994421 30.8386249 65.80229 30.8386249 65.80229 25.0128328 49.994421 25.0128328"></polygon>
+                <path d="M59.4261978,19.77329 L59.4261978,16.5108528 C59.4261978,15.9585681 59.873913,15.5108528 60.4261978,15.5108528 L82.8202537,15.5108528 C83.3725385,15.5108528 83.8202537,15.0631376 83.8202537,14.5108528 L83.8202537,1 C83.8202537,0.44771525 84.267969,3.17378567e-15 84.8202537,0 L90.0615173,0 C90.613802,-2.06356265e-15 91.0615173,0.44771525 91.0615173,1 L91.0615173,14.5108528 C91.0615173,15.0631376 91.5092325,15.5108528 92.0615173,15.5108528 L97.660679,15.5108528 C98.2129638,15.5108528 98.660679,15.9585681 98.660679,16.5108528 L98.660679,32.8536705 C98.660679,33.4059552 98.2129638,33.8536705 97.660679,33.8536705 L76.7453185,33.8536705 C76.1930338,33.8536705 75.7453185,33.4059552 75.7453185,32.8536705 L75.7453185,21.77329 C75.7453185,21.2210052 75.2976033,20.77329 74.7453185,20.77329 L60.4261978,20.77329 C59.873913,20.77329 59.4261978,20.3255747 59.4261978,19.77329 Z" id="Path" fill="#2167AE"></path>
+                <polygon id="Path-2" fill="#23366F" points="0 21.0167564 14.3086822 55.3732618 98.660679 55.3732618 110.179309 30.6564551 28.2571229 30.8386249 21.084133 21.0167564"></polygon>
+            </g>
+            <g id="waves" transform="translate(21.000000, 83.000000)">
+                <path d="M48.7085052,9 C48.7085052,4.029435 53.637332,0 59.7173542,0 C65.7973764,0 70.7262032,4.029435 70.7262032,9" id="Mask-Copy-4" stroke="#5495CF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(59.717354, 4.500000) scale(1, -1) translate(-59.717354, -4.500000) "></path>
+                <path d="M3.69080723,9 C3.69080723,4.029435 8.83952973,0 15.1908072,0 C21.5420847,0 26.6908072,4.029435 26.6908072,9" id="Mask-Copy-2" stroke="#5495CF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.190807, 4.500000) scale(1, -1) translate(-15.190807, -4.500000) "></path>
+                <path d="M70.7262032,9 C70.7262032,4.029435 75.8749257,0 82.2262032,0 C88.5774807,0 93.7262032,4.029435 93.7262032,9" id="Mask-Copy-6" stroke="#5495CF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(82.226203, 4.500000) scale(1, -1) translate(-82.226203, -4.500000) "></path>
+                <path d="M26.6908072,9 C26.6908072,4.029435 31.6196341,0 37.6996562,0 C43.7796784,0 48.7085052,4.029435 48.7085052,9" id="Mask-Copy-3" stroke="#5495CF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(37.699656, 4.500000) scale(1, -1) translate(-37.699656, -4.500000) "></path>
+                <ellipse id="Oval" fill="#5495CF" cx="27" cy="6.5" rx="4" ry="2.5"></ellipse>
+                <ellipse id="Oval-Copy-3" fill="#5495CF" cx="49" cy="6.5" rx="4" ry="2.5"></ellipse>
+                <ellipse id="Oval-Copy-4" fill="#5495CF" cx="71" cy="6.5" rx="4" ry="2.5"></ellipse>
+                <ellipse id="Oval-Copy-4-Copy" fill="#5495CF" cx="92" cy="7.5" rx="4" ry="2.5"></ellipse>
+                <ellipse id="Oval-Copy-5" fill="#5495CF" cx="4" cy="7.5" rx="4" ry="2.5"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

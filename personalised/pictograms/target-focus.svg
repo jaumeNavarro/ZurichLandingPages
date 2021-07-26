@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/industry-and-company-and-business/target-focus</title>
+    <g id="pictogram/industry-and-company-and-business/target-focus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="target-focus">
+            <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="Mask" fill="#DAD2BD"></path>
+            <path d="M120,70 C120,97.61425 97.61425,120 70,120 C42.38575,120 20,97.61425 20,70 C20,42.38575 42.38575,20 70,20 C97.61425,20 120,42.38575 120,70" id="Mask" fill="#23366F"></path>
+            <path d="M102,70 C102,87.67312 87.67312,102 70,102 C52.32688,102 38,87.67312 38,70 C38,52.32688 52.32688,38 70,38 C87.67312,38 102,52.32688 102,70" id="Mask" fill="#5495CF"></path>
+            <path d="M85,70 C85,78.284275 78.284275,85 70,85 C61.715725,85 55,78.284275 55,70 C55,61.715725 61.715725,55 70,55 C78.284275,55 85,61.715725 85,70" id="Mask" fill="#23366F"></path>
+            <path d="M130,58 L119.62963,70 L130,82 L100.37037,82 L95.185,76 L72.5,76 C69.4624339,76 67,73.5375661 67,70.5 C67,67.4624339 69.4624339,65 72.5,65 L94.321,65 L100.37037,58 L130,58 Z" id="Combined-Shape" fill="#1FB1E6"></path>
+        </g>
+    </g>
+</svg>

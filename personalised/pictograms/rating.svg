@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/more/rating</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+    </defs>
+    <g id="pictogram/more/rating" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#2167AE" xlink:href="#path-1"></use>
+            <g id="Group-11" mask="url(#mask-2)">
+                <g transform="translate(10.581000, 42.711800)">
+                    <polyline id="Stroke-1" fill="#DAD2BD" points="32.74 30.188 22.913 25.049 13.108 30.232 14.958 19.298 7 11.574 17.97 9.955 22.856 0 27.787 9.933 38.764 11.503 33.078 17.072 30.841 19.262 32.017 26.028"></polyline>
+                    <polyline id="Stroke-1-Copy" fill="#DAD2BD" points="69.159 30.188 59.332 25.049 49.527 30.232 51.377 19.298 43.419 11.574 54.389 9.955 59.275 0 64.206 9.933 75.183 11.503 69.497 17.072 67.26 19.262 68.436 26.028"></polyline>
+                    <polyline id="Stroke-1-Copy-3" fill="#DAD2BD" points="51.159 61.7644 41.332 56.6254 31.527 61.8084 33.377 50.8744 25.419 43.1504 36.389 41.5314 41.275 31.5764 46.206 41.5094 57.183 43.0794 51.497 48.6484 49.26 50.8384 50.436 57.6044"></polyline>
+                    <polyline id="Stroke-1-Copy-4" fill="#91BFE3" points="88.159 61.7644 78.332 56.6254 68.527 61.8084 70.377 50.8744 62.419 43.1504 73.389 41.5314 78.275 31.5764 83.206 41.5094 94.183 43.0794 88.497 48.6484 86.26 50.8384 87.436 57.6044"></polyline>
+                    <polyline id="Stroke-1-Copy-2" fill="#DAD2BD" points="105.159 30.188 95.332 25.049 85.527 30.232 87.377 19.298 79.419 11.574 90.389 9.955 95.275 0 100.206 9.933 111.183 11.503 105.497 17.072 103.26 19.262 104.436 26.028"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

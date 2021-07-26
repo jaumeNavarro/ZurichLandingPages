@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/products-and-services/zurich-international-services</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.129412 0 0 0 0 0.403922 0 0 0 0 0.682353 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-2"></path>
+        <path d="M140,70 C140,108.66079 108.66079,140 70.0016542,140 C53.7588619,140 38.8096701,134.468286 26.932366,125.188109 C10.5390396,112.37617 0,92.4179979 0,70 C0,31.3392098 31.3392098,0 70.0016542,0 C76.178514,0 82.1684469,0.800642783 87.8738539,2.30267511 C116.822715,9.92532375 138.438416,35.6236412 139.918943,66.6005766 C139.971878,67.7254466 140,68.860242 140,70 Z" id="path-4"></path>
+    </defs>
+    <g id="pictogram/products-and-services/zurich-international-services" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="Mask" fill="#DAD2BD"></path>
+            <g filter="url(#filter-1)" id="globe">
+                <g transform="translate(20.000000, 20.000000)"></g>
+            </g>
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Mask" fill="#91BFE3" xlink:href="#path-2"></use>
+            <g id="Icon-Globe-Copy" mask="url(#mask-3)">
+                <mask id="mask-5" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <use id="Stroke-1" fill="#2167AE" xlink:href="#path-4"></use>
+                <polyline id="Stroke-3" stroke="#5495CF" stroke-width="3.051282" fill="#5495CF" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)" points="24.1666667 134 37 101.986832 16.5382379 95.3827165 17.2829187 86.4721137 -8 81.6727572"></polyline>
+                <polyline id="Stroke-5" stroke="#5495CF" stroke-width="3.051282" fill="#5495CF" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)" points="73.5945946 -11 42.7890625 16.171875 28 13.3150396"></polyline>
+                <polyline id="Stroke-7" stroke="#5495CF" stroke-width="3.051282" fill="#5495CF" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)" points="87.1488996 -9.8515625 71.2504163 21.2375383 77.2669044 24.6884776 61.7142909 32.189512 67.3700862 38.156244 73.974553 35.7496897 83.5106783 39.0351163 97.6798125 37.3932305 103.128086 47.7973573 97.5793455 53.3784447 87.8702852 52.4515737 83.7840802 56.8326943 68.2528777 49.4408982 57.0812821 52.1784778 47 65.0470884 49.7241367 78.465201 64.7118294 83.6672644 75.3366213 84.7613031 75.6100232 94.344487 80.5147868 98.7256076 82.9671686 122 97.9532144 118.166726 101.494263 107.7626 106.944183 102.285785 107.761095 89.9650217 117.570622 78.465201 111.030388 76.2738131 102.046007 62.862321 104.442391 57.7910127 115.388348 55.1908085 120.021357 59.0240821 184.28125 35.5429688"></polyline>
+            </g>
+            <g id="1" mask="url(#mask-3)" fill="#23366F">
+                <g transform="translate(91.000000, 43.000000)">
+                    <path d="M40,15.5 C40,24.0605619 32.8365547,31 24,31 C15.1634453,31 8,24.0605619 8,15.5 C8,6.93943812 15.1634453,0 24,0 C32.8365547,0 40,6.93943812 40,15.5" id="Fill-1"></path>
+                    <path d="M49,99 L0,99 L0,57.0431201 C0,43.7644407 10.7854444,33 24.0897611,33 L24.9102389,33 C38.2145556,33 49,43.7644407 49,57.0431201 L49,99 Z" id="Fill-3"></path>
+                </g>
+            </g>
+            <g id="2" mask="url(#mask-3)" fill="#DAD2BD">
+                <g transform="translate(57.000000, 52.000000)">
+                    <path d="M39,15.5 C39,24.0605619 32.0604124,31 23.5,31 C14.9395876,31 8,24.0605619 8,15.5 C8,6.93943812 14.9395876,0 23.5,0 C32.0604124,0 39,6.93943812 39,15.5" id="Fill-1"></path>
+                    <path d="M48,100 L0,100 L0,57.0100244 C0,43.7496233 10.5653333,33 23.5981333,33 L24.4018667,33 C37.4346667,33 48,43.7496233 48,57.0100244 L48,100 Z" id="Fill-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

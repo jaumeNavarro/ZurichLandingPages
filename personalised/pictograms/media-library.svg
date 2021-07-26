@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/products-and-services/media-library</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="140" height="140" rx="70"></rect>
+    </defs>
+    <g id="pictogram/products-and-services/media-library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#DAD2BD" xlink:href="#path-1"></use>
+            <g id="Group-18" mask="url(#mask-2)">
+                <g transform="translate(24.545704, 29.649123)">
+                    <path d="M85.0323921,73.3859649 L6.49392365,73.3859649 C2.92241849,73.3859649 0,70.4698149 0,66.9049538 L0,18.0248708 C0,14.4600096 2.92241849,11.5438596 6.49392365,11.5438596 L85.0323921,11.5438596 C88.6038973,11.5438596 91.5263158,14.4600096 91.5263158,18.0248708 L91.5263158,66.9049538 C91.5263158,70.4698149 88.6038973,73.3859649 85.0323921,73.3859649 Z" id="Stroke-1" stroke="none" fill="#23366F" fill-rule="evenodd"></path>
+                    <polygon id="Stroke-3" stroke="none" fill="#23366F" fill-rule="evenodd" points="62.6666667 11.5438596 28.0350877 11.5438596 32.0697564 0 58.6309893 0"></polygon>
+                    <line x1="0" y1="31.745614" x2="90.7017544" y2="31.745614" id="Stroke-5" stroke="#5495CF" stroke-width="2.4" fill="none"></line>
+                    <path d="M65.9649123,42.877193 C65.9649123,54.2624098 56.7350802,63.4912281 45.3508772,63.4912281 C33.9666742,63.4912281 24.7368421,54.2624098 24.7368421,42.877193 C24.7368421,31.4919761 33.9666742,22.2631579 45.3508772,22.2631579 C56.7350802,22.2631579 65.9649123,31.4919761 65.9649123,42.877193" id="Fill-7" stroke="none" fill="#91BFE3" fill-rule="evenodd"></path>
+                    <circle id="Oval" stroke="none" fill="#DDE4E3" fill-rule="evenodd" cx="45.3508772" cy="42.877193" r="15.6666667"></circle>
+                    <polygon id="Stroke-15" stroke="none" fill="#91BFE3" fill-rule="evenodd" points="37.9298246 7.42105263 52.7719298 7.42105263 52.7719298 3.29824561 37.9298246 3.29824561"></polygon>
+                    <polygon id="Stroke-17" stroke="none" fill="#23366F" fill-rule="evenodd" points="9.89473684 11.5438596 20.6140351 11.5438596 20.6140351 7.42105263 9.89473684 7.42105263"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/transportation-and-travel/travel</title>
+    <defs>
+        <polygon id="path-1" points="0 5.68434189e-14 140 5.68434189e-14 140 139.999895 0 139.999895"></polygon>
+    </defs>
+    <g id="pictogram/transportation-and-travel/travel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 0.000105)">
+            <g transform="translate(0.000000, 0.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M140,69.999895 C140,108.659845 108.65995,139.999895 70,139.999895 C31.34005,139.999895 0,108.659845 0,69.999895 C0,31.339945 31.34005,-0.000105 70,-0.000105 C108.65995,-0.000105 140,31.339945 140,69.999895" id="Fill-1" fill="#91BFE3" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-12" transform="translate(20.458333, 20.499895)" fill="#23366F">
+                    <path d="M50,0 C56.6272,0 62,5.573865 62,12.45 L62,33 L100,49 L100,61 L62,61 L62,82.5 L70,90.5 L70,98.5 L30,98.5 L30,90.5 L38,82.5 L38,61 L0,61 L0,49 L38,33 L38,12.45 C38,5.573865 43.3728,0 50,0 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

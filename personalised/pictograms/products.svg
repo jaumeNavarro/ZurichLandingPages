@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/products-and-services/products</title>
+    <g id="pictogram/products-and-services/products" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="Mask" fill="#5495CF"></path>
+            <g id="Paket" transform="translate(70.924773, 64.000000)" stroke="#23366F" stroke-linecap="round" stroke-linejoin="round">
+                <polygon id="Stroke-9" stroke-width="5.375" fill="#91BFE3" points="21.7945584 42.3591492 0.0190520639 33.2161588 0 8.59384117 21.7654789 0 43.5309578 8.56044032 43.5500099 33.182758"></polygon>
+                <polyline id="Stroke-11" stroke-width="3.375" points="1.13686838e-13 10.0522315 19.7157062 17.1060467 41.4811851 8.56034208"></polyline>
+                <line x1="19.8162565" y1="40.8842627" x2="19.7161073" y2="17.8209364" id="Stroke-13" stroke-width="3.375"></line>
+                <polyline id="Stroke-20" stroke-width="3.375" points="31.8418913 20.5275086 31.8418913 12.8331944 10.4144708 4.72354843"></polyline>
+            </g>
+            <g id="Paket" transform="translate(25.924773, 64.000000)" stroke="#23366F" stroke-linecap="round" stroke-linejoin="round">
+                <polygon id="Stroke-9" stroke-width="5.375" fill="#2167AE" points="21.7945584 42.3591492 0.0190520639 33.2161588 0 8.59384117 21.7654789 0 43.5309578 8.56044032 43.5500099 33.182758"></polygon>
+                <polyline id="Stroke-11" stroke-width="3.375" points="1.13686838e-13 10.0522315 19.7157062 17.1060467 41.4811851 8.56034208"></polyline>
+                <line x1="19.8162565" y1="40.8842627" x2="19.7161073" y2="17.8209364" id="Stroke-13" stroke-width="3.375"></line>
+                <polyline id="Stroke-20" stroke-width="3.375" points="31.8418913 20.5275086 31.8418913 12.8331944 10.4144708 4.72354843"></polyline>
+            </g>
+            <g id="Paket" transform="translate(48.924773, 30.000000)" stroke="#23366F" stroke-linecap="round" stroke-linejoin="round">
+                <polygon id="Stroke-9" stroke-width="5.375" fill="#1FB1E6" points="21.7945584 42.3591492 0.0190520639 33.2161588 0 8.59384117 21.7654789 0 43.5309578 8.56044032 43.5500099 33.182758"></polygon>
+                <polyline id="Stroke-11" stroke-width="3.375" points="1.13686838e-13 10.0522315 19.7157062 17.1060467 41.4811851 8.56034208"></polyline>
+                <line x1="19.8162565" y1="40.8842627" x2="19.7161073" y2="17.8209364" id="Stroke-13" stroke-width="3.375"></line>
+                <polyline id="Stroke-20" stroke-width="3.375" points="31.8418913 20.5275086 31.8418913 12.8331944 10.4144708 4.72354843"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

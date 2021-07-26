@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/finance-and-data/claims-check</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+    </defs>
+    <g id="pictogram/finance-and-data/claims-check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#91BFE3" xlink:href="#path-1"></use>
+            <g id="Balken" mask="url(#mask-2)" fill="#2167AE" fill-rule="nonzero">
+                <g transform="translate(30.000000, 25.000000)" id="Rectangle">
+                    <rect x="0" y="29" width="13" height="41" rx="6"></rect>
+                    <rect x="34" y="16" width="13" height="54" rx="6"></rect>
+                    <rect x="51" y="0" width="13" height="70" rx="6"></rect>
+                    <rect x="17" y="7" width="13" height="63" rx="6"></rect>
+                    <rect x="68" y="16" width="13" height="54" rx="6"></rect>
+                </g>
+            </g>
+            <circle id="Oval" fill="#91BFE3" mask="url(#mask-2)" cx="99.5" cy="98.5" r="28.5"></circle>
+            <g id="checkmark-copy" mask="url(#mask-2)">
+                <g transform="translate(76.000000, 75.000000)">
+                    <circle id="Oval" stroke="none" fill="#23366F" cx="22" cy="22" r="22"></circle>
+                    <path d="M34.2277514,12.7542524 L33.7003989,12.2235926 C33.0330248,11.5520329 31.9476044,11.5486398 31.2760447,12.216014 C31.2735106,12.2185323 31.2709844,12.2210585 31.2684661,12.2235926 L16.2200731,27.3663643 L16.2200731,27.3663643 L12.1601054,23.2809337 C11.4927312,22.609374 10.4073108,22.6059809 9.7357511,23.2733551 C9.733217,23.2758734 9.73069078,23.2783996 9.72817248,23.2809337 L9.20085643,23.8115569 C8.53643073,24.4801497 8.53643073,25.5597398 9.20085643,26.2283325 L16.1793278,33.2505707 L16.1793278,33.2505707 L16.1863127,33.243542 C16.2083621,33.2663636 16.2447371,33.2669896 16.2675587,33.2449402 C16.2678392,33.2446692 16.268117,33.2443953 16.2683919,33.2441187 L34.227788,15.1709912 C34.8921792,14.5023927 34.8921628,13.4228308 34.2277514,12.7542524 Z" id="Stroke-5-Copy" stroke="#1FB1E6" stroke-width="1.2" fill="#1FB1E6" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

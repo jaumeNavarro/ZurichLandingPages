@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/industry-and-company-and-business/expertise</title>
+    <defs>
+        <path d="M40.5,0 C18.1683666,0 0,18.1682114 0,40.500346 C0,62.8317886 18.1683666,81 40.5,81 C62.8323254,81 81,62.8317886 81,40.500346 C81,18.1682114 62.8323254,0 40.5,0 L40.5,0 Z" id="path-1"></path>
+    </defs>
+    <g id="pictogram/industry-and-company-and-business/expertise" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="Mask" fill="#DAD2BD"></path>
+            <polygon id="Stroke-17-Copy" stroke="#1FB1E6" stroke-width="3.4" fill="#1FB1E6" points="65.8851 25.739 69.6831 18 73.5161 25.722 82.0501 26.942 75.8901 32.974 77.3661 41.467 69.7271 37.473 62.1061 41.501 63.5431 33.001 57.3571 26.998"></polygon>
+            <polygon id="Stroke-17-Copy-2" stroke="#1FB1E6" stroke-width="3.4" fill="#1FB1E6" points="35.5257765 43.799377 37.9867169 38.8598 40.4703357 43.7885264 46 44.5672167 42.0085854 48.4172656 42.9649698 53.8380988 38.015227 51.2888456 33.0771474 53.8598 34.0082615 48.4344989 30 44.6029599"></polygon>
+            <polygon id="Stroke-17-Copy-3" stroke="#1FB1E6" stroke-width="3.4" fill="#1FB1E6" points="102.525777 43.799377 104.986717 38.8598 107.470336 43.7885264 113 44.5672167 109.008585 48.4172656 109.96497 53.8380988 105.015227 51.2888456 100.077147 53.8598 101.008261 48.4344989 97 44.6029599"></polygon>
+            <g id="man" transform="translate(29.500000, 39.000000)">
+                <g id="Fill-1-and-Fill-3-Mask" transform="translate(0.500000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M55.89,27.135 C55.89,35.8584887 48.8183364,42.93 40.095,42.93 C31.3716636,42.93 24.3,35.8584887 24.3,27.135 C24.3,18.4115113 31.3716636,11.34 40.095,11.34 C48.8183364,11.34 55.89,18.4115113 55.89,27.135" id="Fill-1" fill="#23366F" mask="url(#mask-2)"></path>
+                    <path d="M65.61,88.29 L16.2,88.29 L16.2,69.4524469 C16.2,56.146525 27.07569,45.36 40.4913285,45.36 L41.3186715,45.36 C54.73431,45.36 65.61,56.146525 65.61,69.4524469 L65.61,88.29 Z" id="Fill-3" fill="#23366F" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

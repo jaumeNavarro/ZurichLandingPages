@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/earth-and-nature/rain-2</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+    </defs>
+    <g id="pictogram/earth-and-nature/rain-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#5495CF" xlink:href="#path-1"></use>
+            <g id="regen-04" mask="url(#mask-2)" fill-rule="nonzero">
+                <g transform="translate(20.935518, 20.000000)">
+                    <path d="M100,50.9496641 C100,38.7823408 90.1950305,28.9187764 78.0999881,28.9187764 L78.0419902,28.9187764 C79.466753,15.0948575 69.9185285,2.55525645 56.2798908,0.338798492 C42.6412531,-1.87765946 29.653739,6.99958772 26.6790395,20.5716215 C26.470247,20.5716215 26.265321,20.5716215 26.0603951,20.5716215 C11.6691461,20.5716214 0.00213520014,32.3066139 0,46.7838659 C0,60.5687293 10.8804083,72.9105384 24.015002,72.9105384 L24.015002,73 L78.1889182,72.8949799 L78.1889182,72.9805518 C90.2501014,72.9334156 100.00222,63.0830173 100,50.9496641 Z" id="Path" fill="#23366F"></path>
+                    <polygon id="Path-Copy" fill="#DAD2BD" points="33 80.8739162 50.7596057 80.8074455 50.0636646 103 66 67.7300514 47.2918171 67.7300514 49.0030695 44"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

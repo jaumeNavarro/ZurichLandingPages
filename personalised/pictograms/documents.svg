@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/products-and-services/documents</title>
+    <g id="pictogram/products-and-services/documents" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-Copy-3" fill="#91BFE3" x="0" y="0" width="140" height="140" rx="70"></rect>
+            <g id="Group-5" transform="translate(33.833240, 30.174946)">
+                <g id="Group-2"></g>
+                <polyline id="Path" fill="#23366F" points="51.6914177 15.749143 51.6748228 1 16.8992595 1 1 16.9634557 1 62.5951646 20.5104266 62.5951646"></polyline>
+                <polyline id="Path" fill="#5495CF" points="0.824879747 17.0749911 16.8992595 17.0749911 16.8992595 0.82505443"></polyline>
+                <g id="leaf" transform="translate(19.366863, 16.749143)">
+                    <polygon id="Path" fill="#DAD2BD" points="50.6748228 0 15.9580165 0 0 16.2499367 0 61.5951646 50.784 61.5951646"></polygon>
+                    <polygon id="Path" fill="#5495CF" points="0 16.2499367 16.0743797 16.2499367 16.0743797 0"></polygon>
+                    <path d="M10.870557,40.7370759 L40.8768228,40.7370759 L10.870557,40.7370759 Z" id="Path" stroke="#5495CF" stroke-width="2.4"></path>
+                    <path d="M10.870557,33.3130253 L40.8768228,33.3130253 L10.870557,33.3130253 Z" id="Path" stroke="#5495CF" stroke-width="2.4"></path>
+                    <path d="M10.870557,25.8671392 L40.8768228,25.8671392 L10.870557,25.8671392 Z" id="Path" stroke="#5495CF" stroke-width="2.4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

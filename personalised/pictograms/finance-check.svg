@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/finance-and-data/finance-check</title>
+    <defs>
+        <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="path-1"></path>
+    </defs>
+    <g id="pictogram/finance-and-data/finance-check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#5495CF" xlink:href="#path-1"></use>
+            <g id="Money" mask="url(#mask-2)" fill="#DAD2BD">
+                <g transform="translate(25.000000, 40.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="56" height="10" rx="5"></rect>
+                    <rect id="Rectangle-Copy" x="6" y="12" width="56" height="10" rx="5"></rect>
+                    <rect id="Rectangle-Copy-2" x="0" y="24" width="56" height="10" rx="5"></rect>
+                    <rect id="Rectangle-Copy-3" x="0" y="36" width="56" height="10" rx="5"></rect>
+                    <rect id="Rectangle-Copy-4" x="8" y="48" width="56" height="10" rx="5"></rect>
+                </g>
+            </g>
+            <g id="checkmark" mask="url(#mask-2)">
+                <g transform="translate(59.000000, 45.000000)">
+                    <circle id="Oval" stroke="#5495CF" stroke-width="4" fill="#23366F" cx="28" cy="28" r="30"></circle>
+                    <path d="M42.5990433,18.0466278 L41.9837988,17.4275247 C41.2051956,16.6440384 39.9388718,16.6400798 39.1553855,17.418683 C39.152429,17.421621 39.1494818,17.4245683 39.1465437,17.4275247 L21.5900853,35.0940917 L21.5900853,35.0940917 L16.8534563,30.327756 C16.0748531,29.5442696 14.8085293,29.5403111 14.025043,30.3189143 C14.0220865,30.3218523 14.0191392,30.3247995 14.0162012,30.327756 L13.4009992,30.9468164 C12.6258359,31.7268413 12.6258359,32.9863631 13.4009992,33.766388 L21.5425491,41.9589992 L21.5425491,41.9589992 L21.5506982,41.950799 C21.5764224,41.9774242 21.61886,41.9781545 21.6454852,41.9524303 C21.6458124,41.9521141 21.6461365,41.9517946 21.6464572,41.9514718 L42.599086,20.8661564 C43.374209,20.0861248 43.3741899,18.826636 42.5990433,18.0466278 Z" id="Stroke-5-Copy" stroke="#1FB1E6" stroke-width="1.4" fill="#1FB1E6" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
